@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/tnv218/l-react/issues"
   },
-  "homepage": "https://github.com/tnv218/l-react#readme"
+  "homepage": "https://github.com/tnv218/l-react#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "react": "^15.4.0"
+  }
 }
